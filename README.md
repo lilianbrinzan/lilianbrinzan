@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 ## Hi +_+👋
 
 I am Lilian Brinzan, a Full Stack Developer. I want to grow my personal brand [Shop](https://cotton-world.online/) and build a team. I have a degree in business administration and worked as an economics lecturer in Moldova. For ten years, I was part of the analytical department at CNA, where I developed IT skills.  
