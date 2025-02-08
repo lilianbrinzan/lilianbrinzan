@@ -5,3 +5,5 @@ I am Lilian Brinzan, a Full Stack Developer. I want to grow my personal brand [S
 After moving to Germany, I learned the language and started my career here. I worked at REWE-Markt GmbH and from January to September 2023, I completed a Java programming course at AIT-TR GmbH in Berlin. I speak Romanian fluently, have a B2 level in German, and basic English skills.  
 
 I have experience with Java, HTML, CSS, JavaScript, PHP and MySQL.
+![image](https://github.com/user-attachments/assets/e67f7ae0-d04a-41d6-809d-fe1f4d1a4079)
+
